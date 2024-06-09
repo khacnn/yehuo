@@ -39,6 +39,7 @@ HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
 HBO 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
 HBO Family,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
+MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 PopC,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
