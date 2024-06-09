@@ -49,7 +49,7 @@ ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ChannelV,http://117.114.153.1:8180/TV00000000000000000067@HHZT#http://171.88.35.78:4000/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
 BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 TVB翡翠台,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8#http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
-无线新闻台,P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5#P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 TVBJ2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
 
