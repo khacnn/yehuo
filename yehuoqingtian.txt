@@ -1,5 +1,4 @@
 美国,#genre#
-MTV Japan,http://jp.vthanhnetwork.com/MTV/index.m3u8
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 CNN News,https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
 红牛TV,http://rbmn-live.akamaized.net:80/hls/live/590964/BoRB-AT/master_1660.m3u8?
@@ -16,7 +15,7 @@ A2iNaija,https://stream.sen-gt.com/A2iNaija/myStream/playlist.m3u8
 A2iMusic,https://stream.sen-gt.com/A2iMusic/myStream/playlist.m3u8
 TVS Classic Movies,https://rpn1.bozztv.com/36bay2/gusa-tvsclassicmovies/index.m3u8
 TVS Hollywood History,https://rpn1.bozztv.com/36bay2/gusa-tvshollywoohistory/mono.m3u8
-Made In Hollywoodhttps://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0/variant.m3u8?url=f42c3bd18c1cb2ba2c26360ec060a601-f9b0d4752fde3aa9680c1d8b630655ea27309facbf9fc34b6346f0eb68064625307bf0ccdb835505607f831c951edf0e44cbc1d9eff96df0233390d7198369c4486d51272bd07aae586e9a5b0abc5c18db5a207917b27485c72f51301e1f94de7e67c6250ad6d84b527eafb88c9bff024b2121d595201970c23dcff42ca008ef6d20dd6aaf8d3257c7e2b3f3412b45d47829464922126edbc5168ecc15f5250dc54d3e322e0dbb9fdae1d189399a5d48a503eb9d6e4461f0ccb6aede58f1659cbbb51f86f230b2e412333d6da5d94930&x-plex-token=sDrA2SUTyAW-c4pYqoyz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=
+Made In Hollywood,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-60db63d29ec966002c9ea6f0/variant.m3u8?url=f42c3bd18c1cb2ba2c26360ec060a601-f9b0d4752fde3aa9680c1d8b630655ea27309facbf9fc34b6346f0eb68064625307bf0ccdb835505607f831c951edf0e44cbc1d9eff96df0233390d7198369c4486d51272bd07aae586e9a5b0abc5c18db5a207917b27485c72f51301e1f94de7e67c6250ad6d84b527eafb88c9bff024b2121d595201970c23dcff42ca008ef6d20dd6aaf8d3257c7e2b3f3412b45d47829464922126edbc5168ecc15f5250dc54d3e322e0dbb9fdae1d189399a5d48a503eb9d6e4461f0ccb6aede58f1659cbbb51f86f230b2e412333d6da5d94930&x-plex-token=sDrA2SUTyAW-c4pYqoyz&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=
 Wu Tang Collection,https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc770.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=XMKDbHdQEJSUe7aX9xvq
 红牛TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
 武当,https://stream.ads.ottera.tv/playlist.m3u8?network_id=73
@@ -743,7 +742,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f8
 华视(备),P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
 东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+MTV taiwan,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
