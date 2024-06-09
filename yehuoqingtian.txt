@@ -1,3 +1,65 @@
+收藏,#genre#
+CNN USA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
+BBC News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
+MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
+CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
+TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+TVB Pearl,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+Channel V,http://203.80.165.14/stream/channelid/1998962087?profile=pass
+Channel 4,p3p://fccsen.dyndns.tv:29706/5a4fc6a30000c6fe8347f2ba7b456d3d
+Channel 5,p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
+Film 4,p3p://fccsen.dyndns.tv:29706/5a4fc6f9000c7c77834945aa62c55dd2
+More 4,p3p://fccsen.dyndns.tv:29706/5bf0817c000316d3df1e708d010a4787
+BBC Earth,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
+Discovery Asia,P2p://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
+Discovery科学频道,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
+三立都会台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
+东森综合台,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
+超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
+中天娱乐台,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
+东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
+八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
+TVBS欢乐台,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
+BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+壹电视新闻台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+TVBS亚洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
+NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
+HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
+HBO 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
+HBO Family,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
+HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
+明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
+J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
+PopC,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
+ViuTVsix,P2p://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
+ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
+
+翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8?key=txiptv
+翡翠台,http://119.125.134.187:9901/tsfile/live/1076_1.m3u8?key=txiptv
+翡翠台,http://183.33.193.246:8000/bysid/1
+翡翠台,http://r.jdshipin.com/qClQf
+翡翠台,http://r.jdshipin.com/n90gt
+黄金翡翠台,mitv://generationnexxxt.com:19806/01873b2d49c846caaafe998ed7aa9818
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,mitv://147.135.39.171:9906/656e10050004486770b3650c61184545
+无线新闻,http://feng163.com:9001/bysid/83
+无线新闻,http://live.cooltv.top/tv/tvb.php?id=0
+
+
+
 美国,#genre#
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 CNN News,https://d25usgadhphvwi.cloudfront.net/hls/stv_plus_640x360/playlist.m3u8
@@ -742,7 +804,7 @@ EYE TV戏剧台,P2p://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f8
 华视(备),P2p://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
 东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
-MTV taiwan,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 东森购物1台,P2p://generationnexxxt.com:19806/eccc79da1c0a4b54b49a71277e1534a0
 东森购物2台,P2p://generationnexxxt.com:19806/71a90a7da65142e795b97def2400e1fb
 
@@ -756,7 +818,7 @@ HOY TV,P2p://generationnexxxt.com:19806/10c18372b612479086c1f259245543ff
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 无线新闻台(备),P2p://147.135.39.171:9906/65af205400009f3c6edb7a235cfa4c88
 无线新闻台,P2p://147.135.39.171:9906/65ab4a55000e0bf85fdf91767a57713b
-无线财经体育资讯台,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
+PopC,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
 ViuTVsix,P2p://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 凤凰中文台,P2p://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
@@ -953,7 +1015,7 @@ NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 新时代1(东部),P2p://generationnexxxt.com:19806/28d014f7982c4041ab7197218b9c1284
 城市电视,P2p://generationnexxxt.com:19806/a18fbea7eddd4079b3e2e684d19df5c4
 Fox News,P2p://generationnexxxt.com:19806/6579228d000333673171faee60517ea8
-BBC World News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
+BBC News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
 CNN USA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
 CBC News,P2p://generationnexxxt.com:19806/6579228b000ea7c13171f60c6a0d21f3
 MSNBC,P2p://generationnexxxt.com:19806/6579228b000782ab3171f43764692427
@@ -1023,7 +1085,7 @@ Music Japan TV,P2p://generationnexxxt.com:19806/7bbfd7a0233d4861943f8488dc21e075
 Mezzo Live,P2p://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
 CLASSICA 古典乐,P2p://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
 Channel [V],P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
-MTV tw,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+MTV taiwan,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 
 体育,#genre#
 CCTV5,P2p://generationnexxxt.com:19806/7d00bdeddb6c422796e62ae9e8b9398d
@@ -1831,6 +1893,7 @@ BET,p3p://fccsen.dyndns.tv:29706/5a88f8ff0009cd9962b447551fe4191d
 TV Land,p3p://fccsen.dyndns.tv:29706/5bd6416300025ca478944ec057621712
 Weather Channel,p3p://fccsen.dyndns.tv:29706/5fe7f6b800096eff12ee7f752cfe3c6d
 Hallmark Channel,p3p://fccsen.dyndns.tv:29706/5bd5f0d7000465ab7759ac632ce15607
+
 北美,#genre#
 MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
