@@ -3,9 +3,6 @@ CNN USA,P2p://generationnexxxt.com:19806/6579228c000644123171f7d14c4002bd
 BBC News,P2p://generationnexxxt.com:19806/6579228c000c47523171f9583333664f
 MTV live,p3p://fccsen.dyndns.tv:29706/59adf63f00089a1e1f96cf6523872643
 CNN International,p3p://fccsen.dyndns.tv:29706/5a20bffb0002906acb96445d76975880
-TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-TVB Pearl,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
-TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
 Channel V,http://203.80.165.14/stream/channelid/1998962087?profile=pass
 Channel 4,p3p://fccsen.dyndns.tv:29706/5a4fc6a30000c6fe8347f2ba7b456d3d
 Channel 5,p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
@@ -47,6 +44,9 @@ PopC,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
 ViuTVsix,P2p://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 
+TVB无线新闻,P2p://147.135.39.171:9906/658f93d500090264f39e82304f2d4370#P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328#P2p://generationnexxxt.com:19806/85a50e6db781406bacc41b10a75a70d5
+TVB Satellite News Channel,http://live.cooltv.top/tv/tvb.php?id=0
+TVB Satellite Finance-Sport-Info Channel,http://live.cooltv.top/tv/tvb.php?id=2
 翡翠台,http://ictv.91tv.top:9901/tsfile/live/1006_1.m3u8?key=txiptv
 翡翠台,http://119.125.134.187:9901/tsfile/live/1076_1.m3u8?key=txiptv
 翡翠台,http://183.33.193.246:8000/bysid/1
