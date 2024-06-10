@@ -9,17 +9,13 @@ Channel 5,p3p://fccsen.dyndns.tv:29706/5a4fc6b8000a4344834847302d90644a
 Film 4,p3p://fccsen.dyndns.tv:29706/5a4fc6f9000c7c77834945aa62c55dd2
 More 4,p3p://fccsen.dyndns.tv:29706/5bf0817c000316d3df1e708d010a4787
 BBC Earth,P2p://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
+BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 Discovery Asia,P2p://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
 Discovery科学频道,P2p://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
 三立都会台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
 东森综合台,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
 超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
-中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
-中天娱乐台,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
-东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
-八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
 TVBS欢乐台,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
-纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
 BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
 CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
 Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
@@ -34,23 +30,19 @@ TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS,P2p://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
 TVBS亚洲,P2p://generationnexxxt.com:19806/5459e179cc3b4ea49e5b6ed6a4f298c9
-NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
-HBO,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10848
-HBO 2,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10850
 HBO Family,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10851
 HBO West,http://dns.clientetv.net:8080/sourceuxusaX2/bRsCaNup9Cb3/10849
-MTV,P2p://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
 明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 J2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872
 PopC,P2p://generationnexxxt.com:19806/65b212f60006eae40fdd362b7ad67084
 ViuTVsix,P2p://generationnexxxt.com:19806/ba99e7a39d9c4e74bacc5de14f58dcf6
 ViuTV,P2p://generationnexxxt.com:19806/976916e8baee45a89d5e023224f7ab2b
 ChannelV,http://117.114.153.1:8180/TV00000000000000000067@HHZT#http://171.88.35.78:4000/udp/239.93.0.157:2194#http://wouu.net:9977/udp/239.93.0.157:2194#P2p://generationnexxxt.com:19806/65938874000d6c7c9890150e746d4c5b
-BBC Lifestyle,P2p://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
 TVB翡翠台,http://60.30.198.43:5080/香蕉哥/tvb翡翠/hls.m3u8#http://60.30.198.43:5080/香蕉哥/广电翡翠/hls.m3u8#http://1b6467f415.iok.la:9931/tsfile/live/1007_1.m3u8#P2p://147.135.39.171:9906/659ad8a2000d34621fa351dc7e476ef7#P2p://147.135.39.171:9906/661411cd000976fff92b536266ba3275#7P2p://generationnexxxt.com:19806/660d193500015d6c736dc89372d11bb9
 明珠台,P2p://generationnexxxt.com:19806/9993262cc067418a983f0c7ec18adef9
 TVBJ2,P2p://generationnexxxt.com:19806/6a623cf5c0bc4c96b8fd45a47af4a872#P2p://147.135.39.171:9906/65fd6048000be8b2a085bc4d061c504d
 TVB翡翠台(华丽台),P2p://generationnexxxt.com:19806/0485c5b3e68c43268b39c8e68b0e6244
+
 
 美国,#genre#
 FOX News,https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
